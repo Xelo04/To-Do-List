@@ -2,6 +2,9 @@
 
 export default function ToDoInput(){
     return(
-        <div>To Do List</div>
+        <header>
+            <input placeholder="Enter to do..." />
+            <button>Add</button>
+        </header>
     )
 }

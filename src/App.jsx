@@ -5,11 +5,10 @@ import ToDoCard from "./components/ToDoCard"
 function App() {
 
   return (
-    <main>
+    <>
       <ToDoInput/>
       <ToDoList/>
-      <ToDoCard/>
-    </main>
+    </>
   )
 }
 
