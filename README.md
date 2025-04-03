@@ -19,25 +19,26 @@ The project is structured as follows:
 
 ```
 .project-root/
-│── .gitignore          # Plik ignorujący pliki dla Git
-│── eslint.config.js    # Konfiguracja ESLint
-│── index.html          # Główny plik HTML
-│── LICENSE             # Plik licencji
-│── package.json        # Plik konfiguracji npm
-│── README.md           # Dokumentacja projektu
-│── vite.config.js      # Konfiguracja Vite
+│── .gitignore              # Git ignore file
+│── eslint.config.js        # ESLint configuration
+│── index.html              # Main HTML file
+│── LICENSE                 # License file
+│── package.json            # npm configuration file
+│── README.md               # Project documentation
+│── vite.config.js          # Vite configuration
 │
-├── public/             # Pliki statyczne
+├── public/                 # Static files
+├── screenshots/            # Screenshots of the project
 │
-├── src/                # Główne źródła aplikacji
-│ │── App.jsx           # Główny komponent aplikacji
-│ │── index.css         # Globalne style CSS
-│ │── main.jsx          # Punkt wejściowy aplikacji
-│ │
-│ ├── components/       # Folder z komponentami
-│ │ │── TodoCard.jsx    # Komponent karty zadania
-│ │ │── TodoInput.jsx   # Komponent pola wprowadzania zadań
-│ │ └── TodoList.jsx    # Komponent listy zadań
+└── src/                    # Main application source code
+    │── App.jsx             # Main application component
+    │── index.css           # Global CSS styles
+    │── main.jsx            # Application entry point
+    │
+    └── components/         # Folder for components
+        │── TodoCard.jsx    # Task card component
+        │── TodoInput.jsx   # Task input component
+        └── TodoList.jsx    # Task list component
 ```
 
 ---
