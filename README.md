@@ -4,6 +4,19 @@ The **To Do List** project is a personal initiative to demonstrate the core conc
 
 ---
 
+## 📖 Table of Contents
+
+- [🚀 Features](#-features)
+- [📂 Project Structure](#-project-structure)
+- [🛠️ Technologies Used](#️-technologies-used)
+- [🌟 Key Functionalities](#-key-functionalities)
+- [📸 Screenshots](#-screenshots)
+- [⚙️ Installation and Usage](#️-installation-and-usage)
+- [🤝 Contributing](#-contributing)
+- [📜 License](#-license)
+
+---
+
 ## 🚀 Features
 
 - **Task Management**: Add, edit, delete, and mark tasks as complete.
